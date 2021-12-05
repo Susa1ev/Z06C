@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.exe
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.deps.json
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.runtimeconfig.json
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.runtimeconfig.dev.json
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.dll
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\ref\Z061.dll
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\bin\Debug\net5.0\Z061.pdb
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.AssemblyInfo.cs
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.dll
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\ref\Z061.dll
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.pdb
+C:\Users\susal\source\repos\prac6.1console\prac6.1console\obj\Debug\net5.0\Z061.genruntimeconfig.cache
